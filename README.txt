@@ -1,5 +1,4 @@
-Git Study
-===
+#Git Study
 
 ```
   var ihubo = {
