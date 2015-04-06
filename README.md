@@ -18,5 +18,5 @@ Git 开发起初，他们设定的目标是：<br />
 
 ###国内：
 * ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/osc_logo.gif)<br />
-* ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/Codding.png)<br />
 * ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/taoCode.png)<br />
+* ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/Codding.png)<br />
