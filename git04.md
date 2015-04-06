@@ -7,6 +7,5 @@
 #####常用其他选项
 > --pretty=oneline <br />
 > --graph <br />
-> aaa <br />
 
 
