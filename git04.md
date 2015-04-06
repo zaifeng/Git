@@ -5,8 +5,8 @@
 #git log
 ```
 #####常用其他选项
->> --pretty=oneline
->> --graph
->> aaa
+>> --pretty=oneline <br />
+>> --graph <br />
+>> aaa <br />
 
 
