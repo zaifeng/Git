@@ -11,3 +11,13 @@
 ```
 #git init [repository]
 ```
+
+####添加文件本地版本库
+```
+#git add README.md [file1,[file2]]
+```
+
+####提交文件到本地版本库
+```
+#git commit --message "code commit"
+```
