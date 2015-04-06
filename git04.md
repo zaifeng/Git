@@ -4,7 +4,7 @@
 ```git
 #git log
 ```
-> 常用其他选项
+#####常用其他选项
 >> --pretty=oneline
 >> --graph
 >> aaa
