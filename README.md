@@ -2,4 +2,6 @@
 
 Git是版本控制管理工具，作者Linus
 
+git log 命令选项
 
+[git-log.png](./images/git-log.png)
