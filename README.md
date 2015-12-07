@@ -26,6 +26,7 @@ git status -s 可以查看系统那些文件做了那些修改
 $git status -s
 M hello.md
 
+$git diff 用于查看difference,显示的格式正是Unix通用的diff格式
 
 $git diff 无参数情况，表示工作区和索引区对比
 
