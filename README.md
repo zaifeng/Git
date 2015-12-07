@@ -60,4 +60,5 @@ To push the current branch and set the remote as upstream, use
 
 --set-upstream 效果等同于 -u ,只需与远程绑定一次，以后即可使用简略命令
 
+合并分支时，加上--no-ff参数就可以用普通模式合并
 --no-ff 选项可以看出log的图形效果
