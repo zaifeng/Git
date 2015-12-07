@@ -60,3 +60,4 @@ To push the current branch and set the remote as upstream, use
 
 --set-upstream 效果等同于 -u ,只需与远程绑定一次，以后即可使用简略命令
 
+--no-ff 选项可以看出log的图形效果
