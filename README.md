@@ -58,4 +58,5 @@ To push the current branch and set the remote as upstream, use
 
     git push --set-upstream origin master
 
+--set-upstream 效果等同于 -u ,只需与远程绑定一次，以后即可使用简略命令
 
