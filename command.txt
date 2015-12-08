@@ -55,8 +55,6 @@ bin
  
  
 git操作-删除文件
-日期:2012-05-20 来源: bg090721 分享至:
- 
 
 git删除文件
 
@@ -68,22 +66,15 @@ git commit -m "rm test"
 
 git push web
 
- 
-
 -----------at server
 
 cd /var/www/foo.git;sudo git update-server-info
-
- 
-
 ------------检查删除效果
 
 cd;rm foo3 -rf;git clone http://[某ip]/foo.git foo3
-
- 
 
 ------------更新已经存在的local code
 
 cd;cd foo2
 
-git remote add web [某user]@[某ip]:/var/www/foo.git/
+git remote add web user@ip:/var/www/foo.git
