@@ -1,4 +1,5 @@
 Git常用操作命令收集：
+
 1) 远程仓库相关命令
 检出仓库：$ git clone git://github.com/jquery/jquery.git
 查看远程仓库：$ git remote -v
@@ -54,9 +55,7 @@ bin
 *.db
  
  
-git操作-删除文件
-日期:2012-05-20 来源: bg090721 分享至:
- 
+删除文件
 
 git删除文件
 
@@ -86,4 +85,4 @@ cd;rm foo3 -rf;git clone http://[某ip]/foo.git foo3
 
 cd;cd foo2
 
-git remote add web [某user]@[某ip]:/var/www/foo.git/
+git remote add web [user]@[ip]:/var/www/foo.git/
