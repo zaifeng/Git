@@ -64,3 +64,7 @@ To push the current branch and set the remote as upstream, use
 
 合并分支时，加上--no-ff参数就可以用普通模式合并
 --no-ff 选项可以看出log的图形效果
+
+
+git reset -- file 用于撤销暂存区的修改
+git reset HEAD -- file 用于撤销暂存+工作区的修改
