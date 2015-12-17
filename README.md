@@ -32,6 +32,8 @@ $git diff 无参数情况，表示工作区和索引区对比
 
 $git diff --cached 表示索引区和版本控制区对比
 
+用git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别
+
 h.default is unset; its implicit value has changed in
 Git 2.0 from 'matching' to 'simple'. To squelch this message
 and maintain the traditional behavior, use:
