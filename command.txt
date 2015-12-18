@@ -80,3 +80,8 @@ cd;cd foo2
 
 
 git remote add web user@ip:/var/www/foo.git
+
+Git alias Usage
+
+git config --global alias.mg 'merge --no-ff'
+
