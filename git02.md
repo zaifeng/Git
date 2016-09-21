@@ -5,4 +5,3 @@ Git版本管理库由三个工作区域组成：
 * 本地仓库(repository)
 
 ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/git_org.png)<br />
-

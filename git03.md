@@ -14,10 +14,25 @@
 
 ####添加文件本地版本库
 ```
-#git add README.md [file1,[file2]]
+#git add file1
+
+#git add file1 file2 ... fileN
+
+#git add .
+
 ```
 
 ####提交文件到本地版本库
 ```
-#git commit --message "code commit"
+#git commit --message "code commit"  
+
+#git commit -m "code comments"
 ```
+
+什么？懒？两步提交太麻烦
+
+```
+#git commit -a -m "code comment"
+```
+
+有什么问题？

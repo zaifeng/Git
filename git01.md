@@ -18,6 +18,6 @@ Git 开发起初，他们设定的目标是：<br />
 * BitBucket
 
 ###国内：
-* ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/osc_logo.gif) http://git.oschina.net <br />
-* ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/Codding.png) http://codding.net <br />
-* ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/taoCode.png) http://code.taobao.org <br />
+* http://git.oschina.net ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/osc_logo.gif) <br />
+* http://codding.net ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/Codding.png) <br />
+* http://code.taobao.org ![gitlogo](https://github.com/zaifeng/gitstudy/blob/master/images/taoCode.png) <br />
