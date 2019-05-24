@@ -69,6 +69,13 @@ $ git push origin [name]
 $ git push origin :heads/[name]
 ```
 
+拉取远程`trunk`分支到本地
+```
+$ git pull origin :trunk
+```
+
+
+
 我从master分支创建了一个issue5560分支，做了一些修改后，使用git push origin master提交，但是显示的结果却是'Everything up-to-date'，发生问题的原因是git push origin master 在没有track远程分支的本地分支中默认提交的master分支，因为master分支默认指向了origin master 分支，这里要使用git push origin issue5560：master 就可以把issue5560推送到远程的master分支了。
 
 如果想把本地的某个分支test提交到远程仓库，并作为远程仓库的master分支，或者作为另外一个名叫test的分支，那么可以这么做。
