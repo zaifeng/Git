@@ -2,7 +2,8 @@
 
 `Git`是Linus于2005年开发的一个`开源`,`分布式`的版本控制系统。
 
-Git 开发起初，他们设定的目标是：<br />
+Git 开发起初，他们设定的目标是:
+
 * 速度 
 * 简单的设计 
 * 对非线性开发模式的强力支持（允许上千个并行开发的分支） 
@@ -10,12 +11,12 @@ Git 开发起初，他们设定的目标是：<br />
 * 有能力高效管理类似 Linux 内核一样的超大规模项目（速度和数据量）
 
 #### 提供代码仓库服务的网站有：
-国外：
+- 国外：
 * Github
 * BitKeeper
 * BitBucket
 
-国内：
+- 国内：
 * OsChina 
 * taoCode
 * Codding
@@ -37,11 +38,11 @@ git log 命令选项
 $git status -s
 M hello.md
 
-$git diff 用于查看difference,显示的格式正是Unix通用的diff格式
+$ git diff 用于查看difference,显示的格式正是Unix通用的diff格式
 
-$git diff 无参数情况，表示工作区和索引区对比
+$ git diff 无参数情况，表示工作区和索引区对比
 
-$git diff --cached 表示索引区和版本控制区对比
+$ git diff --cached 表示索引区和版本控制区对比
 
 用git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别
 ```
