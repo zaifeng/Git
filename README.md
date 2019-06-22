@@ -80,4 +80,5 @@ To push the current branch and set the remote as upstream, use
 ```
 git reset -- file 用于撤销暂存区的修改
 git reset HEAD -- file 用于撤销暂存+工作区的修改
+
 ```
